@@ -1,0 +1,10 @@
+D:\c#-2019\MyContact\MyContact\bin\Debug\MyContact.exe.config
+D:\c#-2019\MyContact\MyContact\bin\Debug\MyContact.exe
+D:\c#-2019\MyContact\MyContact\bin\Debug\MyContact.pdb
+D:\c#-2019\MyContact\MyContact\obj\Debug\MyContact.csprojAssemblyReference.cache
+D:\c#-2019\MyContact\MyContact\obj\Debug\MyContact.Form1.resources
+D:\c#-2019\MyContact\MyContact\obj\Debug\MyContact.Properties.Resources.resources
+D:\c#-2019\MyContact\MyContact\obj\Debug\MyContact.csproj.GenerateResource.cache
+D:\c#-2019\MyContact\MyContact\obj\Debug\MyContact.exe
+D:\c#-2019\MyContact\MyContact\obj\Debug\MyContact.pdb
+D:\c#-2019\MyContact\MyContact\obj\Debug\MyContact.frmAddOrEdit.resources
